@@ -27,13 +27,14 @@
     </div>
     
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #ffffff;">🏅 Stats</h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #000000;">🏅 Stats</h2>
   <br/>
-  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=S0HYUNN&custom_title=S0HYUNN's%20GitHub%20Stats&bg_color=000000&title_color=ffffff&text_color=ffffff&count_private=true&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0HYUNN&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start; background-color: #ffffff; padding: 10px; border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=S0HYUNN&custom_title=S0HYUNN's%20GitHub%20Stats&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0HYUNN&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" />
   </div>
 </div>
+
     
 
     
