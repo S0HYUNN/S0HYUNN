@@ -26,17 +26,15 @@
           </div>
     </div>
     
-<div align="center" style="width: 100%; max-width: 700px;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #000000; text-align: left; padding-left: 10px; margin: 0;">
+<div align="center" style="display: flex; align-items: center; gap: 20px;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #000000; margin: 0; padding-bottom: 4px;">
     🏅 Stats
   </h2>
-  <br/>
-  <div style="display: flex; justify-content: flex-start; gap: 10px; align-items: flex-start; background-color: #ffffff; padding: 10px 10px 10px 10px; border-radius: 8px;">
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start; background-color: #ffffff; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api?username=S0HYUNN&custom_title=S0HYUNN's%20GitHub%20Stats&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0HYUNN&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" />
   </div>
 </div>
-
 
     
 
