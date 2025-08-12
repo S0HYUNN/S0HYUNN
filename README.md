@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello%20World%20👋%20S0HYUNN's%20Dev%20Space&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World%20👋%20S0HYUNN's%20Dev%20Space&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
@@ -27,10 +27,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-     <img src="https://github-readme-stats.vercel.app/api?username=S0HYUNN&custom_title=S0HYUNN's%20GitHub%20Stats&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0HYUNN&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" />
-    </div> 
+        <img src="https://github-readme-stats.vercel.app/api?username=S0HYUNN&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0HYUNN&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> </div> 
     </div>
+    
     
 
     
